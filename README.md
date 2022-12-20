@@ -1,5 +1,5 @@
 # JS-calc
-< p align="center">Simple project calculator</p>
+<center>Simple project calculator</center>
 
 ![calc](./calc.jpg)
 ## GO TO CALC
